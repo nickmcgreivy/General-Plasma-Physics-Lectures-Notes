@@ -2,7 +2,7 @@
 
 
 
-These notes summarize and explain the topics covered in a graduate-level introductory plasma physics course at Princeton University (General Plasma Physics I, Fall 2017). I first define what a plasma is and introduce some of its basic properties. I then discuss single particle motion, kinetic and fluid models of plasmas, and plasma waves.
+[These notes](https://github.com/nickmcgreivy/General-Plasma-Physics-Lectures-Notes/blob/main/general-plasma-physics-notes-McGreivy.pdf) summarize and explain the topics covered in a graduate-level introductory plasma physics course at Princeton University (General Plasma Physics I, Fall 2017). I first define what a plasma is and introduce some of its basic properties. I then discuss single particle motion, kinetic and fluid models of plasmas, and plasma waves.
 
 
 # Table of contents
